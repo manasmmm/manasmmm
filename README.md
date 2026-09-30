@@ -10,7 +10,7 @@
 - 🤖 Interested in **Machine Learning**, **Data Science**, **Product Management** and **Consulting**
 - 🛰️ Currently applying ML to satellite data for **ocean, agriculture & climate** problems
 - 🏆 Built **OceanEmbed** for **Smart India Hackathon 2026**: reconstructing ocean temperature below the surface from satellite data
-- 📫 Reach me: `[your email / LinkedIn]`
+- 📫 Reach me: https://www.linkedin.com/in/manas-bhatnagar?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
